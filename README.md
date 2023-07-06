@@ -60,6 +60,12 @@
 ![Screenshot (743)_LI](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/8070aa36-27fa-45c2-a2a4-75d3194f55e7)
 
 
+<h3>User Can Change Password</h3>
+
+![Screenshot (745)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/367bc143-e531-44c2-9125-71cda213fec4)
+
+
+
 
 
 
