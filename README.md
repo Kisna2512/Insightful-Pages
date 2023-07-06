@@ -17,7 +17,8 @@
 
 <h3>SignUp Page</h3>
 
-![Signup](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/f4602126-eab8-48ab-947c-a9469319c053 )
+![Screenshot (718)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/341cacd8-3d1b-45b5-b057-dae69becf5f0)
+
 
 
 <h3>Login Page</h3>
