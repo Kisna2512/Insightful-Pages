@@ -23,35 +23,42 @@
 
 <h3>Login Page</h3>
 
-![Login](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/e0f26b62-0102-4333-a963-c64db692137c)
+![Screenshot (719)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/89aa06f2-0e2d-42fa-b54b-fe411943cae3)
+
 
 
 <h3>Blog Page</h3>
 
-![Screenshot (735)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/1c3c9fed-0700-4cf0-afde-bab41d88377a)
+![Screenshot (735)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/12a4072d-b92b-4ddf-8089-4e1af688e215)
+
 
 
 <h3>Blogs with interactive images</h3>
 
-![Screenshot (737)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/8c9508fc-4971-45a1-abf9-bf96d396768f)
+![Screenshot (743)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/ce5f5432-4a95-4fd9-ba5e-4cacb21b1121)
+
 
 <h3>Interactive Text-editor</h3>
 
-![Screenshot (739)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/96f9c5cb-da62-429f-8b0d-7344e2b07d0a)
+![Screenshot (739)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/00f79314-9d93-49fa-a1b6-2dd2bac2491a)
+
 
 
 <h3>User Profile</h3>
 
-![Screenshot (741)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/04099f69-840a-4e28-a8a9-ad7cf8f5dac5)
+![Screenshot (741)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/284b51cb-5872-4019-9eb6-e2e8e58e5baf)
+
 
 <h3>User Can Edit Profile</h3>
 
-![Screenshot (742)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/8d9da4f0-f88d-4542-85fa-ed5604629e4d)
+![Screenshot (742)](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/c5dae6b8-45c2-4a35-b3fc-7e4d39b05c33)
+
 
 
 <h3>User can edit blog</h3>
 
-![Screenshot (743)_LI](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/9c34d481-6f26-4460-8abb-28e4f7182070)
+![Screenshot (743)_LI](https://github.com/Kisna2512/Insightful-Pages/assets/90544124/8070aa36-27fa-45c2-a2a4-75d3194f55e7)
+
 
 
 
