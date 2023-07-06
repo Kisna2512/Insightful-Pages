@@ -1,7 +1,7 @@
 # Insightful-Pages
 
 <ul>
-  <li>The Interactive Blog Platform is a full-stack web application that enables users to create, edit, and manage their blogs in an interactive and user-friendly manner. The application provides user authentication, allowing users to sign up and log in securely. Once logged in, users can create and publish their blogs using an interactive editor. The application is built using React.js for the front-end, Node.js (with Express.js) for the back-end, and MongoDB for data storage.</li>
+  <li>The Interactive Blog Platform is a full-stack web application that enables users to create, edit, and manage their blogs in an interactive and user-friendly manner. The application provides user authentication, allowing users to sign up and log in securely. Once logged in, users can create and publish their blogs using an interactive editors. The application is built using React.js for the front-end, Node.js (with Express.js) for the back-end, and MongoDB for data storage.</li>
 </ul>
 
 # Technical Stack 
